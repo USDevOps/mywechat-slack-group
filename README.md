@@ -1,5 +1,5 @@
 # Basic Intro
-<img align="right" width="400" height="360" src="https://raw.githubusercontent.com/DennyZhang/mywechat-slack-group/master/images/mywechat.jpg">
+<img align="right" width="400" height="360" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/mywechat.jpg">
 
 [![Build Status](https://api.travis-ci.org/DennyZhang/mywechat-slack-group.svg?branch=master)](https://travis-ci.org/DennyZhang/mywechat-slack-group) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/github.png)](https://github.com/DennyZhang/mywechat-slack-group) [![Slack](https://www.dennyzhang.com/wp-content/uploads/sns/slack.png)](https://www.dennyzhang.com/slack)
 
@@ -20,7 +20,7 @@ Welcome to the community!
 - [Admin](./Admin.md): All slack admins. Any active user can ping Denny(@dennyzhang) to apply the admin role.
 - [Contact](./Contact.md): Contact information for active users. Find your info missing? Send us a PR.
 
-For any suggestions, file us [Tickets](https://github.com/DennyZhang/mywechat-slack-group/issues) or [PRs](https://github.com/DennyZhang/mywechat-slack-group/pulls). Star [the GitHub repo](https://github.com/DennyZhang/mywechat-slack-group).
+For any suggestions, file us [Tickets](https://github.com/DennyZhang/mywechat-slack-group/issues) or [PRs](https://github.com/DennyZhang/mywechat-slack-group/pulls). Star [the GitHub repo](https://github.com/USDevOps/mywechat-slack-group).
 
 # Contributors: Give people credits
 <img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/gif/magic.gif">
