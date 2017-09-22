@@ -17,7 +17,7 @@
 - #culture: It's more about culture and people, instead of tools
 - #todays-learning: Share what you have learned for today.
 - #weekly-insights: Summarize interesting discussions in all channels weekly.
-- #group-suggestions: Give us your suggestions and make a better community
+- #suggestions: Give us your suggestions and make a better community
 
 # Public & Non-Default Channels: Chat
 - #india: For indian members
