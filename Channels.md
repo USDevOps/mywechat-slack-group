@@ -11,7 +11,8 @@
 - #security: Don't forget security
 - #aiops: AIOps, ChatOps, machine learning, AI, etc.
 - #windevops: windows and microsoft
-- #job-board: Find DevOps jobs or hire devops talents for your team.
+- #prod-incidents Incidents of my production env. Let’s talk about them
+- #jobs: Find DevOps jobs or hire devops talents for your team.
 
 # Public & Non-Default Channels: Culture
 - #career_puzzle: what I should do next?
