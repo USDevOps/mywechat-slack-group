@@ -24,7 +24,7 @@ For any suggestions, file us [Tickets](https://github.com/DennyZhang/mywechat-sl
 
 # Maintainers
 - [Denny Zhang](https://www.dennyzhang.com): [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/dennyzhang001) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/github.png)](https://github.com/DennyZhang) [![Twitter](https://www.dennyzhang.com/wp-content/uploads/sns/twitter.png)](https://twitter.com/dennyzhang001) [![Slack](https://www.dennyzhang.com/wp-content/uploads/sns/slack.png)](https://goo.gl/ozDDyL)
-- Stefan Jansson: TODO
+- Stefan Jansson: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/stefanjansson1) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/github.png)](https://github.com/sjansson)  
 - Guilherme Virtuoso: TODO
 - TODO
 - TODO
