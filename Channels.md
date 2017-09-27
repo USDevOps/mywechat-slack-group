@@ -1,6 +1,6 @@
 # Public & Default Channels
 - #say-hi: Just say hi to everybody
-- #devops-newbies: new devops or future devops
+- #devops-101: new devops or future devops
 - #devops: anything about devops
 - #cooltechanddesign: Cool things and folks
 - #cloud: AWS, GCE, DigitalOcean, etc
