@@ -1,7 +1,7 @@
 # Basic Intro
 <img align="right" width="400" height="360" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/mywechat.jpg">
 
-[![Build Status](https://api.travis-ci.org/DennyZhang/mywechat-slack-group.svg?branch=master)](https://travis-ci.org/DennyZhang/mywechat-slack-group) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/github.png)](https://github.com/DennyZhang/mywechat-slack-group) [![Slack](https://www.dennyzhang.com/wp-content/uploads/sns/slack.png)](https://www.dennyzhang.com/slack)
+[![Build Status](https://api.travis-ci.org/DennyZhang/mywechat-slack-group.svg?branch=master)](https://travis-ci.org/DennyZhang/mywechat-slack-group) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/github.png)](https://github.com/DennyZhang/mywechat-slack-group) [![Slack](https://www.dennyzhang.com/wp-content/uploads/sns/slack.png)](https://goo.gl/ozDDyL)
 
 We're actively maintaining a [Slack group](https://mywechat.slack.com) for DevOps Professionals.
 
