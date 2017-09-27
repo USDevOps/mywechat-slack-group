@@ -7,6 +7,7 @@
 - #announcement: We will try to be quiet. I promise
 
 # Public & Non-Default Channels: Different Categories
+- #slack-101: join if you’re new to slack
 - #linux: old skills help
 - #security: Don't forget security
 - #aiops: AIOps, ChatOps, machine learning, AI, etc.
