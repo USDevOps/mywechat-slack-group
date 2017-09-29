@@ -89,3 +89,21 @@
 - Slack id: @Manideep Singh
 - Intro: 
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/TODO/)
+
+# omarewedah
+- Location: TODO
+- Slack id: @omarewedah
+- Intro: 
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/TODO/)
+
+# Manideep Singh
+- Location: TODO
+- Slack id: @Manideep Singh
+- Intro: 
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/TODO/)
+
+# Vivek Grover
+- Location: TODO
+- Slack id: @Vivek Grover
+- Intro: 
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/TODO/)
