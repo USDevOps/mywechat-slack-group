@@ -91,10 +91,10 @@
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/TODO/)
 
 # omarewedah
-- Location: TODO
+- Location: Egypt
 - Slack id: @omarewedah
 - Intro: TODO
-- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/TODO/)
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/omarewedah/)
 
 # Manideep Singh
 - Location: TODO
