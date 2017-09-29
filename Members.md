@@ -1,4 +1,26 @@
-![](images/slack_admin.png)
+**GIVE PEOPLE CREDITS**, if someone has helped you a lot in this [![Slack](https://www.dennyzhang.com/wp-content/uploads/sns/slack.png)](https://goo.gl/ozDDyL)
+
+1. Endorse his/her skills in LinkedIn
+- Write a LinkedIn recommendation
+- Or simply __Say Hi__ him/her privately
+
+# Pradipta Dash
+- Location: Bengaluru, India
+- Slack id: @Pradipta Dash
+- Intro: TODO
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/pradipta-dash-a4091127/)
+
+# Ming Zhang
+- Location: NewYork, US
+- Slack id: @ming zhang
+- Intro: 
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/blackmagic02881/)
+
+# Stefan Jansson
+- Location: Stockholm, Sweden
+- Slack id: @StefanJansson
+- Intro: QA, Automation, CD, DevOps, Giver - PASSION!
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/stefanjansson1/)
 
 # Denny
 - Location: Houston, TX
@@ -12,29 +34,11 @@
 - Intro: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/gvirtuoso/)
 
-# Pradipta Dash
-- Location: Bengaluru, India
-- Slack id: @Pradipta Dash
-- Intro: TODO
-- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/pradipta-dash-a4091127/)
-
-# Stefan Jansson
-- Location: Stockholm, Sweden
-- Slack id: @StefanJansson
-- Intro: QA, Automation, CD, DevOps, Giver - PASSION!
-- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/stefanjansson1/)
-
 # Kim Kao
 - Location: Taipei, Taiwan
 - Slack id: @Kim Kao
 - Intro: Passionate Software dev guy & [Blogger](https://medium.com/@kimkao)
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/kim-kao-b93b2b68/) [![Twitter](https://www.dennyzhang.com/wp-content/uploads/sns/twitter.png)](https://twitter.com/YiKaiKao) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/github.png)](https://github.com/humank).
-
-# Ming Zhang
-- Location: NewYork, US
-- Slack id: @ming zhang
-- Intro: 
-- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/blackmagic02881/)
 
 # Carlos Osuna
 - Location: Nuevo León, Mexico
