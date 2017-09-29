@@ -106,4 +106,4 @@
 - Location: TODO
 - Slack id: @Vivek Grover
 - Intro: TODO
-- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/TODO/)
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/vivek-grover-69420743/)
