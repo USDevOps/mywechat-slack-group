@@ -15,7 +15,7 @@
 # Ming Zhang
 - Location: NewYork, US
 - Slack id: @ming zhang
-- Intro: 
+- Intro: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/blackmagic02881/)
 
 # Stefan Jansson
@@ -45,65 +45,65 @@
 # Carlos Osuna
 - Location: Nuevo León, Mexico
 - Slack id: @cosuna
-- Intro: 
+- Intro: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/cosuna/)
 
 # Bury Huang
 - Location: Minneapolis, US
 - Slack id: @cosuna
-- Intro: 
+- Intro: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/bury-huang-54535613/)
 
 # Ritu B
 - Location: Pune, India
 - Slack id: @Ritu B
-- Intro: 
+- Intro: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/ritu-b/)
 
 # Neelesh Gurjar
 - Location: Pune, India
 - Slack id: @ngurjar
-- Intro: 
+- Intro: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/neeleshgurjar/)
 
 # Sumit Anand
 - Location: Gurgaon, India
 - Slack id: @sumit anand
-- Intro: 
+- Intro: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/sumit-anand-007b9429/)
 
 # Fu Yong
 - Location: Sydney, Australia
 - Slack id: @Fu Yong
-- Intro: 
+- Intro: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/fuyong/)
 
 # Lexies Leon
 - Location: Chile
 - Slack id: @Lexies Leon
-- Intro: 
+- Intro: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/lexiesleon/)
 
 # Manideep Singh
 - Location: TODO
 - Slack id: @Manideep Singh
-- Intro: 
+- Intro: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/TODO/)
 
 # omarewedah
 - Location: TODO
 - Slack id: @omarewedah
-- Intro: 
+- Intro: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/TODO/)
 
 # Manideep Singh
 - Location: TODO
 - Slack id: @Manideep Singh
-- Intro: 
+- Intro: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/TODO/)
 
 # Vivek Grover
 - Location: TODO
 - Slack id: @Vivek Grover
-- Intro: 
+- Intro: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/TODO/)
