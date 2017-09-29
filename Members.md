@@ -1,4 +1,6 @@
-**GIVE PEOPLE CREDITS**, if someone has helped you a lot in this [![Slack](https://www.dennyzhang.com/wp-content/uploads/sns/slack.png)](https://goo.gl/ozDDyL)
+**GIVE PEOPLE CREDITS**, if someone has helped you a lot in this slack.
+
+(Invitation Link: https://goo.gl/ozDDyL)
 
 1. Endorse his/her skills in LinkedIn
 - Write a LinkedIn recommendation
