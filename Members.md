@@ -66,8 +66,26 @@
 - Intro: 
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/neeleshgurjar/)
 
-# sumit anand
+# Sumit Anand
 - Location: Gurgaon, India
 - Slack id: @sumit anand
 - Intro: 
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/sumit-anand-007b9429/)
+
+# Fu Yong
+- Location: Sydney, Australia
+- Slack id: @Fu Yong
+- Intro: 
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/fuyong/)
+
+# Lexies Leon
+- Location: Chile
+- Slack id: @Lexies Leon
+- Intro: 
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/lexiesleon/)
+
+# Manideep Singh
+- Location: TODO
+- Slack id: @Manideep Singh
+- Intro: 
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/TODO/)
