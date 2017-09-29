@@ -3,8 +3,8 @@
 (Invitation Link: https://goo.gl/ozDDyL)
 
 1. Endorse his/her skills in LinkedIn
-- Write a LinkedIn recommendation
-- Or simply __Say Hi__ him/her privately
+2. Write a LinkedIn recommendation
+3. Or simply __Say Hi__ him/her privately
 
 # Pradipta Dash
 - Location: Bengaluru, India
