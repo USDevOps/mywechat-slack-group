@@ -1,5 +1,7 @@
 ![](images/slack_admin.png)
 
+- TODO: Requirements & Expectations For Admin Application 
+
 # Denny
 - Location: Houston, TX
 - Slack id: @dennyzhang
