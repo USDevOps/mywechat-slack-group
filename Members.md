@@ -84,12 +84,6 @@
 - Intro: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/lexiesleon/)
 
-# Manideep Singh
-- Location: TODO
-- Slack id: @Manideep Singh
-- Intro: TODO
-- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/TODO/)
-
 # omarewedah
 - Location: Egypt
 - Slack id: @omarewedah
@@ -100,7 +94,7 @@
 - Location: TODO
 - Slack id: @Manideep Singh
 - Intro: TODO
-- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/TODO/)
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/manideep-singh/)
 
 # Vivek Grover
 - Location: TODO
