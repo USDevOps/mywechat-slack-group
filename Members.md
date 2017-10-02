@@ -21,8 +21,8 @@
 # Stefan Jansson
 - Location: Stockholm, Sweden
 - Slack id: @StefanJansson
-- Intro: QA, Automation, CD, DevOps, Giver - PASSION!
-- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/stefanjansson1/)
+- Intro: QA Consultant - Quality Coach, CD Evangelist, DevOps  
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/stefanjansson1/) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/github.png)](https://github.com/sjansson).
 
 # Denny
 - Location: Houston, TX
