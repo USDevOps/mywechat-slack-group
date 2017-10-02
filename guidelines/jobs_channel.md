@@ -1,4 +1,4 @@
-To better help you hiring and avoid spaming people in #jobs channel.
+To better help you hiring and avoid spaming people in #jobs channel, please checked PINNED messages.
 
 Here are some guidelines. Feel free to suggest via #suggestions channel.
 
