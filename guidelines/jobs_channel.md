@@ -1,9 +1,11 @@
-To better help you hiring and avoid spaming people in #jobs channel, please checked PINNED messages.
+We want to speed up your hiring, and we also want to avoid spaming people.
 
-Here are some guidelines. Feel free to suggest via #suggestions channel.
+Here are some guidelines. Please join #suggestions channel, if you have suggestions.
 
 (Channel maintainers may delete your messages, if necessary)
 
 1. If you post positions, please include: Job Title + Salary + location.
 
   TODO: add an example
+
+2. 
