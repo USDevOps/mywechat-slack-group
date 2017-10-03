@@ -1,6 +1,8 @@
 We want to speed up your hiring, and we also want to avoid spaming people.
 
-Here are some guidelines. Please join #suggestions channel, if you have suggestions.
+Here are some guidelines.
+
+Please join #suggestions channel, if you have suggestions.
 
 (Channel maintainers may delete your messages, if necessary)
 
