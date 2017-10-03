@@ -5,7 +5,7 @@ Here are some guidelines. Please join #suggestions channel, if you have suggesti
 (Channel maintainers may delete your messages, if necessary)
 
 1. If you post positions, please include: Job Title + Salary + location.
-
+```
   TODO: add an example
-
+```
 2. 
