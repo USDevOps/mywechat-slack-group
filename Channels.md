@@ -17,7 +17,7 @@
 
 # Public & Non-Default Channels: Culture
 - #google-hangout: Start your online tech meetup here.
-- #career-puzzle: what I should do next?
+- #career: what I should do next?
 - #culture: It’s more about culture and people, instead of tools
 - #todays-learning: Share what you have learned for today.
 - #weekly-insights: Summarize interesting discussions in all channels weekly.
