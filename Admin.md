@@ -1,4 +1,5 @@
-- TODO: Requirements & Expectations For Admin Application 
+- TODO: Requirements For Admin Application
+- TODO: Responsibilities and routine tasks for Admins
 
 # Denny
 - Location: Houston, TX
