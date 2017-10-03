@@ -1,5 +1,3 @@
-![](images/slack_admin.png)
-
 - TODO: Requirements & Expectations For Admin Application 
 
 # Denny
