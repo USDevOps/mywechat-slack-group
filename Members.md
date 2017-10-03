@@ -101,3 +101,9 @@
 - Slack id: @Vivek Grover
 - Intro: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/vivek-grover-69420743/)
+
+# Ken Godoy
+- Location: Placentia, Orange County
+- Slack id: @Ken Godoy
+- Intro: TODO
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/kengodoy/)

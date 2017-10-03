@@ -31,3 +31,9 @@
 - Slack id: @Kim Kao
 - Intro: Passionate Software dev guy & [Blogger](https://medium.com/@kimkao)
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/kim-kao-b93b2b68/) [![Twitter](https://www.dennyzhang.com/wp-content/uploads/sns/twitter.png)](https://twitter.com/YiKaiKao) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/github.png)](https://github.com/humank).
+
+# Ken Godoy
+- Location: Placentia, Orange County
+- Slack id: @Ken Godoy
+- Intro: TODO
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/kengodoy/)
