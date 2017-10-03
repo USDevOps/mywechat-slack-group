@@ -2,7 +2,7 @@ We want to speed up your hiring, and we also want to avoid spaming people.
 
 Here are some guidelines.
 
-Please join #suggestions channel, if you have suggestions.
+Please join #suggestions channel, if you have any suggestion.
 
 (Channel maintainers may delete your messages, if necessary)
 
@@ -10,4 +10,5 @@ Please join #suggestions channel, if you have suggestions.
 ```
   TODO: add an example
 ```
-2. 
+
+2. We kick out fake hirings.
