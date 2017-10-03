@@ -1,5 +1,6 @@
 # Default Channels
 - #say-hi: Just say hi to everybody
+- #random: Talk about random stuff
 - #devops-101: new devops or future devops
 - #devops: anything about devops
 - #cool-tech: Cool things and folks
