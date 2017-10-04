@@ -21,8 +21,6 @@ Join Slack: [https://goo.gl/ozDDyL](https://goo.gl/ozDDyL)
 
    We use DevOps to maintain DevOps slack group.
 
-Note: Any active users can apply for [admin role](./Admin.md)
-
 # For New Members
 Welcome to the community!
 - Send us (any [admin](./Admin.md)) a private message. We'd like to welcome everyone in personal.
