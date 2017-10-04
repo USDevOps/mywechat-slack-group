@@ -69,6 +69,12 @@
 - GitHub: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/ritu-b/)
 
+# Ajinkya Bapat
+- Location: Pune, India
+- Slack id: @Ajinkya
+- Intro: DevOps Engineer, Blogger, Football Lover!
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/ajinkyabapat/) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/github.png)](https://github.com/AjinkyaBapat).
+
 # Neelesh Gurjar
 - Location: Pune, India
 - Slack id: @ngurjar
