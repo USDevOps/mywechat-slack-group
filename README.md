@@ -9,15 +9,15 @@ Join Slack: [https://goo.gl/ozDDyL](https://goo.gl/ozDDyL)
 
 **What For?**
 
-**1. Slack brings people closer.**
+**1. Slack Brings People Closer.**
 
    Make friends and have daily chat with DevOps professionals.
 
-**2. Have real and deep conversations.**
+**2. Have Real And Deep Conversations.**
 
    Solve your questions and problems every day.
 
-**3. This slack group is operated in an open source way.**
+**3. This Slack Group Is Operated In An Open Source Way.**
 
    We use DevOps skills to maintain DevOps slack group.
 
