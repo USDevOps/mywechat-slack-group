@@ -107,3 +107,10 @@
 - Slack id: @Ken Godoy
 - Intro: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/kengodoy/)
+
+# Romain Brucker
+- Location: Houston, Texas
+- Slack id: @Romain B.
+- Intro: TODO
+- GitHub: https://github.com/romainrbr
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/rbrucker/)
