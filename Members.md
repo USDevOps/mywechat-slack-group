@@ -10,102 +10,119 @@
 - Location: Bengaluru, India
 - Slack id: @Pradipta Dash
 - Intro: TODO
+- GitHub: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/pradipta-dash-a4091127/)
 
 # Ming Zhang
 - Location: NewYork, US
 - Slack id: @ming zhang
 - Intro: TODO
+- GitHub: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/blackmagic02881/)
 
 # Stefan Jansson
 - Location: Stockholm, Sweden
 - Slack id: @StefanJansson
 - Intro: QA Consultant - Quality Coach, CD Evangelist, DevOps  
+- GitHub: https://github.com/sjansson
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/stefanjansson1/) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/github.png)](https://github.com/sjansson).
 
 # Denny
 - Location: Houston, TX
 - Slack id: @dennyzhang
 - Intro: DevOps Guy & [Blogger](https://www.dennyzhang.com)
+- GitHub: https://github.com/DennyZhang
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/dennyzhang001) [![Twitter](https://www.dennyzhang.com/wp-content/uploads/sns/twitter.png)](https://twitter.com/dennyzhang001) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/github.png)](https://github.com/DennyZhang).
 
 # Guilherme Virtuoso
 - Location: Brazil
 - Slack id: @Guilherme Virtuoso
 - Intro: TODO
+- GitHub: https://github.com/guivirtuoso
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/gvirtuoso/)
 
 # Kim Kao
 - Location: Taipei, Taiwan
 - Slack id: @Kim Kao
 - Intro: Passionate Software dev guy & [Blogger](https://medium.com/@kimkao)
+- GitHub: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/kim-kao-b93b2b68/) [![Twitter](https://www.dennyzhang.com/wp-content/uploads/sns/twitter.png)](https://twitter.com/YiKaiKao) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/github.png)](https://github.com/humank).
 
 # Carlos Osuna
 - Location: Nuevo León, Mexico
 - Slack id: @cosuna
 - Intro: TODO
+- GitHub: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/cosuna/)
 
 # Bury Huang
 - Location: Minneapolis, US
 - Slack id: @cosuna
 - Intro: TODO
+- GitHub: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/bury-huang-54535613/)
 
 # Ritu B
 - Location: Pune, India
 - Slack id: @Ritu B
 - Intro: TODO
+- GitHub: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/ritu-b/)
 
 # Neelesh Gurjar
 - Location: Pune, India
 - Slack id: @ngurjar
 - Intro: TODO
+- GitHub: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/neeleshgurjar/)
 
 # Sumit Anand
 - Location: Gurgaon, India
 - Slack id: @sumit anand
 - Intro: TODO
+- GitHub: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/sumit-anand-007b9429/)
 
 # Fu Yong
 - Location: Sydney, Australia
 - Slack id: @Fu Yong
 - Intro: TODO
+- GitHub: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/fuyong/)
 
 # Lexies Leon
 - Location: Chile
 - Slack id: @Lexies Leon
 - Intro: TODO
+- GitHub: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/lexiesleon/)
 
 # omarewedah
 - Location: Egypt
 - Slack id: @omarewedah
 - Intro: TODO
+- GitHub: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/omarewedah/)
 
 # Manideep Singh
 - Location: TODO
 - Slack id: @Manideep Singh
 - Intro: TODO
+- GitHub: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/manideep-singh/)
 
 # Vivek Grover
-- Location: TODO
+- Location: New Delhi, India 
 - Slack id: @Vivek Grover
 - Intro: TODO
+- GitHub: https://github.com/vivekgrover1
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/vivek-grover-69420743/)
 
 # Ken Godoy
 - Location: Placentia, Orange County
 - Slack id: @Ken Godoy
 - Intro: TODO
+- GitHub: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/kengodoy/)
 
 # Romain Brucker
