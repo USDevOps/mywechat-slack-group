@@ -5,11 +5,12 @@
 
 We're actively maintaining a [Slack group](https://mywechat.slack.com) for DevOps Professionals.
 
-**Join us by** Invitation link: [https://goo.gl/ozDDyL](https://goo.gl/ozDDyL)
+Join Slack: [https://goo.gl/ozDDyL](https://goo.gl/ozDDyL)
 
-1. Bring people closer
-2. Have real and deep conversations
-3. We maintain this slack group in an open source way
+*What For?*
+1. Slack brings people closer. Make friends and have daily chat with DevOps professionals.
+2. Have real and deep conversations. Solve your questions and problems every day.
+3. This slack group is operated in an open source way. We use DevOps to maintain DevOps slack group.
 
 Note: Any active users can apply for [admin role](./Admin.md)
 
