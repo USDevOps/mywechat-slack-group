@@ -3,7 +3,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/github.png)](https://github.com/DennyZhang/mywechat-slack-group) [![Slack](https://www.dennyzhang.com/wp-content/uploads/sns/slack.png)](https://goo.gl/ozDDyL)
 
-This is a [Slack group](https://mywechat.slack.com) for DevOps Professionals.
+This is a **Slack Group** for DevOps Professionals.
 
 Join Slack: [https://goo.gl/ozDDyL](https://goo.gl/ozDDyL)
 
