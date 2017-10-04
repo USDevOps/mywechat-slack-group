@@ -19,7 +19,7 @@ Join Slack: [https://goo.gl/ozDDyL](https://goo.gl/ozDDyL)
 
 **3. This slack group is operated in an open source way.**
 
-   We use DevOps to maintain DevOps slack group.
+   We use DevOps skills to maintain DevOps slack group.
 
 # For New Members
 Welcome to the community!
@@ -31,11 +31,8 @@ Welcome to the community!
 For any suggestions, file us [Tickets](https://github.com/DennyZhang/mywechat-slack-group/issues) or [PRs](https://github.com/DennyZhang/mywechat-slack-group/pulls). Star [the GitHub repo](https://github.com/USDevOps/mywechat-slack-group).
 
 # Maintainers
-- [Denny Zhang](https://www.dennyzhang.com): [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/dennyzhang001) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/github.png)](https://github.com/DennyZhang) [![Twitter](https://www.dennyzhang.com/wp-content/uploads/sns/twitter.png)](https://twitter.com/dennyzhang001) [![Slack](https://www.dennyzhang.com/wp-content/uploads/sns/slack.png)](https://goo.gl/ozDDyL)
-- Stefan Jansson: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/stefanjansson1) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/github.png)](https://github.com/sjansson)  
-- Guilherme Virtuoso: TODO
-- TODO
-- TODO
+- Check [Slack Admins](Admin.md)
+- Any active slack users can apply Admin roles by default. Just ping #suggestions channel.
 
 # Contributors: Give people credits
 <img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/gif/magic.gif">
