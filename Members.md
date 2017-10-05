@@ -137,3 +137,10 @@
 - Intro: TODO
 - GitHub: https://github.com/romainrbr
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/rbrucker/)
+
+# Alessandro Vozza
+- Location: Amsterdam, The Netherlands
+- Slack id: @alessandro
+- Intro: Technical Evangelist @Microsoft, community organizer
+- GitHub: https://github.com/ams0
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/alessandrovozza/)
