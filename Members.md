@@ -138,6 +138,13 @@
 - GitHub: https://github.com/romainrbr
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/rbrucker/)
 
+# Aaron Mehar
+- Location: London, UK
+- Slack id: @aaron
+- Intro: TODO
+- GitHub: https://github.com/aaronmehar
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/aaron-mehar-10633b52/) [![Twitter](https://www.dennyzhang.com/wp-content/uploads/sns/twitter.png)](https://twitter.com/aaronmehar)
+
 # Alessandro Vozza
 - Location: Amsterdam, The Netherlands
 - Slack id: @alessandro
