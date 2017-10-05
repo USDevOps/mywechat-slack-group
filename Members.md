@@ -69,6 +69,12 @@
 - GitHub: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/ritu-b/)
 
+# Ajinkya Bapat
+- Location: Pune, India
+- Slack id: @Ajinkya
+- Intro: DevOps Engineer, Blogger, Football Lover!
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/ajinkyabapat/) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/github.png)](https://github.com/AjinkyaBapat).
+
 # Neelesh Gurjar
 - Location: Pune, India
 - Slack id: @ngurjar
@@ -138,3 +144,10 @@
 - Intro: TODO
 - GitHub: https://github.com/aaronmehar
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/aaron-mehar-10633b52/) [![Twitter](https://www.dennyzhang.com/wp-content/uploads/sns/twitter.png)](https://twitter.com/aaronmehar)
+
+# Alessandro Vozza
+- Location: Amsterdam, The Netherlands
+- Slack id: @alessandro
+- Intro: Technical Evangelist @Microsoft, community organizer
+- GitHub: https://github.com/ams0
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/alessandrovozza/)
