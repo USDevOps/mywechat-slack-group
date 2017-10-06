@@ -151,3 +151,10 @@
 - Intro: Technical Evangelist @Microsoft, community organizer
 - GitHub: https://github.com/ams0
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/alessandrovozza/)
+
+# Keef Baker
+- Location: Cambridge, United Kingdom
+- Slack id: @Keef Baker
+- Intro: TODO
+- GitHub: https://github.com/keefbaker
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/keefbaker/)
