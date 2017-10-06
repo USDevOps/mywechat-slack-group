@@ -22,7 +22,7 @@
 - Intro: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/pradipta-dash-a4091127/)
 
-# Stefan Jansson
+# Stefan Janssono
 - Location: Stockholm, Sweden
 - Slack id: @StefanJansson
 - Intro: QA, Automation, CD, DevOps, Giver - PASSION!
