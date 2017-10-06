@@ -1,6 +1,6 @@
 Let's build a warm and useful DevOps slack community together!
 
-__**General Guidelines For Everyone.**__
+_General Guidelines For Everyone._
 
 **1. Keep it relevant to the specific channel.**
   Check the channel name, before you ask questions or start sharing there.
