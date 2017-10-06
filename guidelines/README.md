@@ -2,7 +2,10 @@ Let's build a warm and useful DevOps slack community together!
 
 **General Guidelines For Everyone.**
 
-1. When you ask questions or start sharing to one channel, keep it relevant to the specific channel.
+1. Keep it relevant to the specific channel.
+
+Check the channel name, before you ask questions or start sharing there.
+
 ```
   TODO: add a bad example
 ```
