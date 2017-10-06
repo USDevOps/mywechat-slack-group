@@ -1,6 +1,6 @@
 Ask active members to help us promoting this slack group.
 
-Ask people to do it, only if they feel comfortable and suitable.
+Attention: avoiding doing that, when they don't feel comfortable and suitable.
 
 - Post real slack discussions to LinkedIn. And ask your connections to Join.
 
