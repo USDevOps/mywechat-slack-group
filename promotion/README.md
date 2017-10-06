@@ -1,6 +1,6 @@
 **Ask active members to help us promoting this slack group.**
 
-_Attention: avoiding doing that, when they don't feel comfortable and suitable._
+_Attention: avoiding doing that, if people don't feel comfortable and suitable._
 
 - Use slack group in your daily work. It can be useful for more people, only after it's useful to yourself.
 
