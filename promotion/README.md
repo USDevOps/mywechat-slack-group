@@ -10,7 +10,7 @@ Example:
 
 2. **Ping #suggestions**, if you can't find what you need or something makes you uncomfortable.
 
-3. **Post real slack discussions to LinkedIn**. And ask your connections to Join.
+3. **Post real slack discussions to LinkedIn**. And ask your connections to Join. Feel free to @ [us](../Members.md) In LinkedIn.
 
 Example:
 
