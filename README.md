@@ -21,14 +21,14 @@ Join Slack: [https://goo.gl/ozDDyL](https://goo.gl/ozDDyL)
 
    We use DevOps skills to maintain DevOps slack group.
 
+For any suggestions, file us [Tickets](https://github.com/DennyZhang/mywechat-slack-group/issues) or [PRs](https://github.com/DennyZhang/mywechat-slack-group/pulls). Star [the GitHub repo](https://github.com/USDevOps/mywechat-slack-group).
+
 # For New Members
 Welcome to the community!
 - Send us (any [admin](./Admin.md)) a private message. We'd like to welcome everyone in personal.
 - [Channels](./Channels.md): Find the channels you're interested, join us and start your conversations.
 - [Admin](./Admin.md): All slack admins. Any active user can ping Denny(@dennyzhang) to apply the admin role.
 - [Rules](./guidelines/README.md): General guidelines for everyone.
-
-For any suggestions, file us [Tickets](https://github.com/DennyZhang/mywechat-slack-group/issues) or [PRs](https://github.com/DennyZhang/mywechat-slack-group/pulls). Star [the GitHub repo](https://github.com/USDevOps/mywechat-slack-group).
 
 # Maintainers & Active Users
 - Contact Of [Active Members]((Members.md). Find your info missing? Send us a PR.
