@@ -31,7 +31,7 @@ Welcome to the community!
 - [Rules](./guidelines/README.md): General guidelines for everyone.
 
 # Maintainers & Active Users
-- Contact Of [Active Members]((Members.md). Find your info missing? Send us a PR.
+- Contact Of [Active Members](Members.md). Find your info missing? Send us a PR.
 - Contact Of [Slack Admins](Admin.md)
 - Help us to promote this slack group: [promotion](promotion/README.md)
 - Any active slack users can apply Admin roles by default. Just ping #suggestions channel.
