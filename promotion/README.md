@@ -1,4 +1,4 @@
-**Ask active members to help us promoting this slack group.**
+**Ask Active Slack Members To Promote The Group In Their Networks.**
 
 _Attention: avoiding doing that, if people don't feel comfortable and suitable._
 
