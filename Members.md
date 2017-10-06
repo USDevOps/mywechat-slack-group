@@ -158,3 +158,10 @@
 - Intro: TODO
 - GitHub: https://github.com/keefbaker
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/keefbaker/)
+
+# Aamir vohra
+- Location: New Delhi, Delhi, India
+- Slack id: @Aamir vohra
+- Intro: TODO
+- GitHub: TODO
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/aamir-vohra-55765833/)
