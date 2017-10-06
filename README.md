@@ -26,12 +26,14 @@ Welcome to the community!
 - Send us (any [admin](./Admin.md)) a private message. We'd like to welcome everyone in personal.
 - [Channels](./Channels.md): Find the channels you're interested, join us and start your conversations.
 - [Admin](./Admin.md): All slack admins. Any active user can ping Denny(@dennyzhang) to apply the admin role.
-- [Contact](./Contact.md): Contact information for active users. Find your info missing? Send us a PR.
+- [Rules](./guidelines/README.md): General guidelines for everyone.
 
 For any suggestions, file us [Tickets](https://github.com/DennyZhang/mywechat-slack-group/issues) or [PRs](https://github.com/DennyZhang/mywechat-slack-group/pulls). Star [the GitHub repo](https://github.com/USDevOps/mywechat-slack-group).
 
-# Maintainers
-- Check [Slack Admins](Admin.md)
+# Maintainers & Active Users
+- Contact Of [Active Members]((Members.md). Find your info missing? Send us a PR.
+- Contact Of [Slack Admins](Admin.md)
+- Help us to promote this slack group: [promotion](promotion/README.md)
 - Any active slack users can apply Admin roles by default. Just ping #suggestions channel.
 
 # Contributors: Give people credits
