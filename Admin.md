@@ -4,7 +4,7 @@
 
 (Invitation Link: https://goo.gl/ozDDyL)
 
-# Denny
+# Denny Zhang
 - Location: Houston, TX
 - Slack id: @dennyzhang
 - Intro: DevOps Guy & [Blogger](https://www.dennyzhang.com)
