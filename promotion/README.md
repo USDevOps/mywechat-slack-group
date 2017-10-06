@@ -15,3 +15,5 @@ Example:
 Example:
 
 [Denny LinkedIn example1](https://www.linkedin.com/feed/update/urn:li:activity:6319755936785330176)
+
+[Denny LinkedIn example2](https://www.linkedin.com/feed/update/urn:li:activity:6322159116148101120)
