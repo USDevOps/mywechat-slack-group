@@ -12,4 +12,6 @@ Example:
 
 - Post real slack discussions to LinkedIn. And ask your connections to Join.
 
-Example: [Denny LinkedIn example1](https://www.linkedin.com/feed/update/urn:li:activity:6319755936785330176)
+Example:
+
+[Denny LinkedIn example1](https://www.linkedin.com/feed/update/urn:li:activity:6319755936785330176)
