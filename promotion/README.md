@@ -1,5 +1,7 @@
 Ask active members to help us promoting this slack group.
 
+Ask people to do it, only if they feel comfortable and suitable.
+
 - Post real slack discussions to LinkedIn. And ask your connections to Join.
 
 Sample: [Denny] https://www.linkedin.com/feed/update/urn:li:activity:6319755936785330176
