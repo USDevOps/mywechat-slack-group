@@ -8,6 +8,7 @@
 - Location: Houston, TX
 - Slack id: @dennyzhang
 - Intro: DevOps Guy & [Blogger](https://www.dennyzhang.com)
+- GitHub: https://github.com/DennyZhang
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/dennyzhang001) [![Twitter](https://www.dennyzhang.com/wp-content/uploads/sns/twitter.png)](https://twitter.com/dennyzhang001) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/github.png)](https://github.com/DennyZhang).
 
 # Guilherme Virtuoso
