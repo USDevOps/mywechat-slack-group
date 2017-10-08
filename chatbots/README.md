@@ -1,4 +1,4 @@
 - welcome message
 - geolocation
 
-TODO: add required docs, screenshots
+TODO: add docs for how to use, screenshots, and docs for how to maintain
