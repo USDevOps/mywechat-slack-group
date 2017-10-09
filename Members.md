@@ -165,3 +165,10 @@
 - Intro: TODO
 - GitHub: https://github.com/aamir010
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/aamir-vohra-55765833/)
+
+# Sanjay Naikwadi
+- Location: India, Mumbai
+- Slack id: @sanjay.naikwadi
+- Intro: DevOps 
+- GitHub: https://github.com/sanjaynaikwadi
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/sanjaynaikwadi/)
