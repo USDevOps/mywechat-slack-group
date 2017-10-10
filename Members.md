@@ -127,8 +127,8 @@
 # Ken Godoy
 - Location: Placentia, Orange County
 - Slack id: @Ken Godoy
-- Intro: TODO
-- GitHub: TODO
+- Intro: Sr. DevOps Engineer @ Xome
+- GitHub: https://github.com/kgodoy
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/kengodoy/)
 
 # Romain Brucker
