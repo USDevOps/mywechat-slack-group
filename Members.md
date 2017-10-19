@@ -166,14 +166,13 @@
 - GitHub: https://github.com/aamir010
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/aamir-vohra-55765833/)
 
-<<<<<<< HEAD
 # Sally Hammons
 - Location: San Francisco Bay Area
 - Slack id: @sally
 - Intro: Sr DevOps Engineer at Asurion
 - GitHub: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/sahammons/)
-=======
+
 # Sanjay Naikwadi
 - Location: India, Mumbai
 - Slack id: @sanjay.naikwadi
@@ -187,5 +186,3 @@
 - Intro: CEO Rocket Labs, Automation evangelist, online business consultant.
 - GitHub: https://github.com/migarol
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/joelopezcuenca/)
-
->>>>>>> 8b3b3fd98b5d3cc414d5d9ac3ce90cb3806b6ca1
