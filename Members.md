@@ -6,20 +6,6 @@
 2. Write a LinkedIn recommendation
 3. Or simply __Say Hi__ him/her privately
 
-# Pradipta Dash
-- Location: Bengaluru, India
-- Slack id: @Pradipta Dash
-- Intro: TODO
-- GitHub: TODO
-- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/pradipta-dash-a4091127/)
-
-# Ming Zhang
-- Location: NewYork, US
-- Slack id: @ming zhang
-- Intro: TODO
-- GitHub: TODO
-- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/blackmagic02881/)
-
 # Stefan Jansson
 - Location: Stockholm, Sweden
 - Slack id: @StefanJansson
@@ -47,6 +33,20 @@
 - Intro: Passionate Software dev guy & [Blogger](https://medium.com/@kimkao)
 - GitHub: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/kim-kao-b93b2b68/) [![Twitter](https://www.dennyzhang.com/wp-content/uploads/sns/twitter.png)](https://twitter.com/YiKaiKao) [![Github](https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/github.png)](https://github.com/humank)
+
+# Pradipta Dash
+- Location: Bengaluru, India
+- Slack id: @Pradipta Dash
+- Intro: TODO
+- GitHub: TODO
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/pradipta-dash-a4091127/)
+
+# Ming Zhang
+- Location: NewYork, US
+- Slack id: @ming zhang
+- Intro: TODO
+- GitHub: TODO
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/blackmagic02881/)
 
 # Carlos Osuna
 - Location: Nuevo León, Mexico
