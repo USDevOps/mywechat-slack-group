@@ -186,3 +186,10 @@
 - Intro: CEO Rocket Labs, Automation evangelist, online business consultant.
 - GitHub: https://github.com/migarol
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/joelopezcuenca/)
+
+# Mike Ortiz
+- Location: Greater St. Louis Area
+- Slack id: @Joe lopez  cuenca
+- Intro: Cloud and DevOps Ninja
+- GitHub: TODO
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/mikeortizcloud/)
