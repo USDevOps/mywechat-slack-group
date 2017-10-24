@@ -25,7 +25,6 @@
 
 # Public & Non-Default Channels: Chat
 - #india: For indian members
-- #china: For chinese members
 - #it-bloggers: IT bloggers give feedback for each other
 
 # Private Channels
