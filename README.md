@@ -23,6 +23,11 @@ Join Slack: [https://goo.gl/ozDDyL](https://goo.gl/ozDDyL)
 
 For any suggestions, file us [Tickets](https://github.com/DennyZhang/mywechat-slack-group/issues) or [PRs](https://github.com/DennyZhang/mywechat-slack-group/pulls). Star [the GitHub repo](https://github.com/USDevOps/mywechat-slack-group).
 
+See Active Slack Members In An World Map.
+![](images/global_world_map.jpg)
+ (Live map: http://slack.romain.tech)
+ 
+
 # For New Members
 Welcome to the community!
 - Send us (any [admin](./Admin.md)) a private message. We'd like to welcome everyone in personal.
