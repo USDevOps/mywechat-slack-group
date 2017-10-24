@@ -49,8 +49,6 @@ Welcome to the community!
 2. Write a LinkedIn recommendation
 3. Or simply Say Hi him/her privately
 
-TODO: to be updated
-
 # More Information
 - See our group maintenance experience: [maintain-slack-group](https://github.com/DennyZhang/maintain-slack-group)
 
