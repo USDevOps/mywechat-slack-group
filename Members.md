@@ -1,4 +1,4 @@
-**GIVE PEOPLE CREDITS**, if someone has helped you a lot in this slack.
+**GIVE PEOPLE CREDITS**, if someone has helped you a lot in this slack
 
 (Invitation Link: https://goo.gl/ozDDyL)
 
@@ -133,7 +133,7 @@
 
 # Romain Brucker
 - Location: Houston, Texas
-- Slack id: @Romain B.
+- Slack id: @Romain B
 - Intro: TODO
 - GitHub: https://github.com/romainrbr
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/rbrucker/)
@@ -183,7 +183,7 @@
 # Joe Lopez Cuenca
 - Location: CDMX, Mexico
 - Slack id: @Joe lopez  cuenca
-- Intro: CEO Rocket Labs, Automation evangelist, online business consultant.
+- Intro: CEO Rocket Labs, Automation evangelist, online business consultant
 - GitHub: https://github.com/migarol
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/joelopezcuenca/)
 
