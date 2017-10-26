@@ -73,7 +73,7 @@
 - Location: Pune, India
 - Slack id: @Ajinkya
 - Intro: DevOps Engineer, Blogger, Football Lover!
-- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/ajinkyabapat/) [![Github](https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/github.png)](https://github.com/AjinkyaBapat).
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/ajinkyabapat/) [![Github](https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/github.png)](https://github.com/AjinkyaBapat)
 
 # Neelesh Gurjar
 - Location: Pune, India
