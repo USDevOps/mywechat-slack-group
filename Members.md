@@ -200,3 +200,10 @@
 - Intro: Entrepreneur, Founder at [PagerTree](https://pagertree.com/)
 - GitHub: [https://github.com/armiiller](https://github.com/armiiller)
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/austin-miller-b2b43b36/)[![Twitter](https://www.dennyzhang.com/wp-content/uploads/sns/twitter.png)](https://twitter.com/armiiller)
+
+# Mahdi Farrokhzad
+- Location: Greater Los Angeles Area
+- Slack id: @mahdi farr
+- Intro: DevOps Engineer at BCG Digital Ventures
+- GitHub: TODO
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/mahdi-f-b60b265b/)
