@@ -209,8 +209,8 @@
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/mahdi-f-b60b265b/)
 
 # Ali Fay
-- Location: Winchester, UK
+- Location: Amsterdam, Netherlands
 - Slack id: @Ali Fay - DevOps Engineer at VONQ.com (Recruiting)
 - Intro: DevOps Engineer at VONQ
-- GitHub: TODO
+- GitHub: [https://github.com/completerevolution](https://github.com/completerevolution)
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/alifay/)
