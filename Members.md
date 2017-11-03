@@ -111,9 +111,9 @@
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/omarewedah/)
 
 # Manideep Singh
-- Location: TODO
+- Location: Chandigarh Area, India
 - Slack id: @Manideep Singh
-- Intro: TODO
+- Intro: Devops Engineer with expertise in IT Administration
 - GitHub: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/manideep-singh/)
 
