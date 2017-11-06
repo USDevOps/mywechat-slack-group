@@ -221,3 +221,10 @@
 - Intro: Linux Systems / DevOps / Build Engineer
 - GitHub: [https://github.com/jambii](https://github.com/jambii)
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/jambii/)
+
+# Jonathan McAllister
+- Location: San Francisco, CA
+- Slack id: @Jonathan.McAllister
+- Intro: Founder & Executive Management at ExeterStudios
+- GitHub: [https://github.com/jambii](https://github.com/KineticX)
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/jonathan-mcallister-3789205/)
