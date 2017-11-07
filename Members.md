@@ -228,3 +228,10 @@
 - Intro: Founder & Executive Management at ExeterStudios
 - GitHub: [https://github.com/jambii](https://github.com/KineticX)
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/jonathan-mcallister-3789205/)
+
+# Prashant Vats
+- Location: Delhi, Inida
+- Slack id: @Prashant Vats
+- Intro: DevOps Engineer at TO THE NEW
+- GitHub: TODO
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/vatsprashant/)
