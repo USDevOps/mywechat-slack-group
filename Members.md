@@ -235,3 +235,10 @@
 - Intro: DevOps Engineer at TO THE NEW
 - GitHub: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/vatsprashant/)
+
+# Philip Schwartz
+- Location: Miami/Fort Lauderdale Area
+- Slack id: @Philip Schwartz
+- Intro: Principal Engineer, Software at T-Mobile
+- GitHub: TODO
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/philip-schwartz-a18126a/)
