@@ -1,11 +1,11 @@
 # Basic Intro
 <img align="right" width="400" height="360" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/mywechat.jpg">
 
-[![Slack](https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/slack.png)](https://goo.gl/ozDDyL) [![Github](https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/github.png)](https://github.com/DennyZhang/mywechat-slack-group) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Slack](https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/slack.png)](https://www.dennyzhang.com/slack) [![Github](https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/github.png)](https://github.com/DennyZhang/mywechat-slack-group) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 This is a **Slack Group** for DevOps Professionals.
 
-Join Slack: [https://goo.gl/ozDDyL](https://goo.gl/ozDDyL)
+Join Slack: [https://www.dennyzhang.com/slack](https://www.dennyzhang.com/slack)
 
 **What For?**
 

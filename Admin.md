@@ -2,7 +2,7 @@
 - TODO: Responsibilities and routine tasks for Admins
 - Any active slack users can apply Admin roles by default. Just ping #suggestions channel.
 
-(Invitation Link: https://goo.gl/ozDDyL)
+(Invitation Link: https://www.dennyzhang.com/slack)
 
 # Denny Zhang
 - Location: Houston, TX
