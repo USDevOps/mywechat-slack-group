@@ -42,7 +42,7 @@ Welcome to the community!
 - Any active slack users can apply Admin roles by default. Just ping #suggestions channel.
 
 # Contributors: Give people credits
-<img align="right" width="200" height="183" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/magic.gif">
+<a href="https://www.dennyzhang.com"><img align="right" width="200" height="183" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/magic.gif"></a>
 
 **GIVE PEOPLE CREDITS**, if someone has helped you a lot.
 1. Endorse his/her skills in LinkedIn
