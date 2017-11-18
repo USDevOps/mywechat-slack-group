@@ -49,7 +49,7 @@ Welcome to the community!
 2. Write a LinkedIn recommendation
 3. Or simply Say Hi him/her privately
 
-<a href="https://www.dennyzhang.com"><img align="right" width="200" height="183" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/dns.png"></a>
+<a href="https://www.dennyzhang.com"><img align="right" width="185" height="37" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/dns_small.png"></a>
 
 # More Information
 - See our group maintenance experience: [maintain-slack-group](https://github.com/DennyZhang/maintain-slack-group)
