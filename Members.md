@@ -6,13 +6,6 @@
 2. Write a LinkedIn recommendation
 3. Or simply __Say Hi__ him/her privately
 
-# Stefan Jansson
-- Location: Stockholm, Sweden
-- Slack id: @StefanJansson
-- Intro: QA Consultant - Quality Coach, CD Evangelist, DevOps  
-- GitHub: https://github.com/sjansson
-- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/stefanjansson1/) [![Github](https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/github.png)](https://github.com/sjansson)
-
 # Denny
 - Location: Houston, TX
 - Slack id: @dennyzhang
@@ -20,33 +13,47 @@
 - GitHub: https://github.com/DennyZhang
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/dennyzhang001) [![Twitter](https://www.dennyzhang.com/wp-content/uploads/sns/twitter.png)](https://twitter.com/dennyzhang001) [![Github](https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/github.png)](https://github.com/DennyZhang)
 
+# Stefan Jansson
+- Location: Stockholm, Sweden
+- Slack id: @StefanJansson
+- Intro: QA Consultant - Quality Coach, CD Evangelist, DevOps  
+- GitHub: https://github.com/sjansson
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/stefanjansson1/) [![Github](https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/github.png)](https://github.com/sjansson)
+
 # Guilherme Virtuoso
 - Location: Brazil
 - Slack id: @Guilherme Virtuoso
-- Intro: TODO
+- Intro: Cloud Engineer. Good at AWS, Ansible
 - GitHub: https://github.com/guivirtuoso
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/gvirtuoso/)
 
 # Philip Schwartz
 - Location: Miami/Fort Lauderdale Area
 - Slack id: @Philip Schwartz
-- Intro: Principal Engineer, Software at T-Mobile
+- Intro: Principal Engineer, Software at T-Mobile. Jenkins, Cloud
 - GitHub: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/philip-schwartz-a18126a/)
 
 # Jonathan McAllister
 - Location: San Francisco, CA
 - Slack id: @Jonathan.McAllister
-- Intro: Founder & Executive Management at ExeterStudios
+- Intro: Founder & Executive Management at ExeterStudios. Architecture
 - GitHub: [https://github.com/jambii](https://github.com/KineticX)
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/jonathan-mcallister-3789205/)
 
 # Pradipta Dash
 - Location: Bengaluru, India
 - Slack id: @Pradipta Dash
-- Intro: TODO
+- Intro: Site Lead Architect. AWS, Architecture
 - GitHub: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/pradipta-dash-a4091127/)
+
+# Puneeth Nanjundaswamy
+- Location: Chile
+- Slack id: @Puneeth
+- Intro: Comfortably Nerd & [Blogger](http://puneeth.de). AWS, Jenkins, Cloud
+- GitHub: https://github.com/puneeth-n
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/puneethnanjundaswamy/)
 
 # Keef Baker
 - Location: Cambridge, United Kingdom
@@ -54,6 +61,20 @@
 - Intro: TODO
 - GitHub: https://github.com/keefbaker
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/keefbaker/)
+
+# Lexies Leon
+- Location: Chile
+- Slack id: @Lexies Leon
+- Intro: TODO
+- GitHub: TODO
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/lexiesleon/)
+
+# Carlos Osuna
+- Location: Nuevo León, Mexico
+- Slack id: @cosuna
+- Intro: TODO
+- GitHub: TODO
+- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/cosuna/)
 
 # Romain Brucker
 - Location: Houston, Texas
@@ -75,20 +96,6 @@
 - Intro: Devops Engineer with expertise in IT Administration
 - GitHub: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/manideep-singh/)
-
-# Lexies Leon
-- Location: Chile
-- Slack id: @Lexies Leon
-- Intro: TODO
-- GitHub: TODO
-- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/lexiesleon/)
-
-# Carlos Osuna
-- Location: Nuevo León, Mexico
-- Slack id: @cosuna
-- Intro: TODO
-- GitHub: TODO
-- Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/cosuna/)
 
 # Ming Zhang
 - Location: NewYork, US
