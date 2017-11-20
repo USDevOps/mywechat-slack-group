@@ -24,10 +24,9 @@ Join Slack: [https://www.dennyzhang.com/slack](https://www.dennyzhang.com/slack)
 For any suggestions, file us [Tickets](https://github.com/DennyZhang/mywechat-slack-group/issues) or [PRs](https://github.com/DennyZhang/mywechat-slack-group/pulls). Star [the GitHub repo](https://github.com/USDevOps/mywechat-slack-group).
 
 See Active Slack Members In An World Map.
-![](images/global_world_map.jpg)
+<a href="https://www.dennyzhang.com"><img src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/global_world_map.jpg"/> </a>
  (Live map: http://slack.romain.tech)
  
-
 # For New Members
 Welcome to the community!
 - Send us (any [admin](./Admin.md)) a private message. We'd like to welcome everyone in personal.
