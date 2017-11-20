@@ -49,7 +49,7 @@
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/pradipta-dash-a4091127/)
 
 # Puneeth Nanjundaswamy
-- Location: Chile
+- Location: Berlin, Germany
 - Slack id: @Puneeth
 - Intro: Comfortably Nerd & [Blogger](http://puneeth.de). AWS, Jenkins, Cloud
 - GitHub: https://github.com/puneeth-n
