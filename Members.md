@@ -7,7 +7,7 @@
 3. Or simply __Say Hi__ him/her privately
 
 # Name: Denny Zhang
-<a href="https://www.dennyzhang.com"><img src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/denny_intro.png"/> </a>
+<a href="https://www.dennyzhang.com"><img align="right" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/denny_intro.png"/> </a>
 - Location: Houston, TX
 - Slack id: @dennyzhang
 - Intro: DevOps Guy & [Blogger](https://www.dennyzhang.com)
