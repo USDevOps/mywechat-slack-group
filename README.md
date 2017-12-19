@@ -43,7 +43,7 @@ Welcome to the community!
 # Contributors: Give people credits
 <a href="https://www.dennyzhang.com"><img align="right" width="201" height="268" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/denny_201706.png"></a>
 
-# Group Rules
+# Slack Group Rules
 1. **GIVE PEOPLE CREDITS**, if someone has helped you a lot.
 ```
 - Endorse his/her skills in LinkedIn
