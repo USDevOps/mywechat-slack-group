@@ -41,12 +41,23 @@ Welcome to the community!
 - Any active slack users can apply Admin roles by default. Just ping #suggestions channel.
 
 # Contributors: Give people credits
-<a href="https://www.dennyzhang.com"><img align="right" width="200" height="183" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/magic.gif"></a>
+<a href="https://www.dennyzhang.com"><img align="right" width="201" height="268" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/denny_201706.png"></a>
 
-**GIVE PEOPLE CREDITS**, if someone has helped you a lot.
-1. Endorse his/her skills in LinkedIn
-2. Write a LinkedIn recommendation
-3. Or simply Say Hi him/her privately
+# Group Rules
+1. **GIVE PEOPLE CREDITS**, if someone has helped you a lot.
+```
+- Endorse his/her skills in LinkedIn
+- Write a LinkedIn recommendation
+- Or simply Say Hi him/her privately
+```
+
+2. Keep it relevant to the specific channel.
+
+    Check the channel name, before you ask questions or start sharing there.
+
+3. Discrimination, sexism, religion, politics are NO GO.**
+
+4. Have fun in #random channel.
 
 # More Information
 - See our group maintenance experience: [maintain-slack-group](https://github.com/DennyZhang/maintain-slack-group)
