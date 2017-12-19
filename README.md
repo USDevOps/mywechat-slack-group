@@ -32,7 +32,6 @@ Welcome to the community!
 - Send us (any [admin](./Admin.md)) a private message. We'd like to welcome everyone in personal.
 - [Channels](./Channels.md): Find the channels you're interested, join us and start your conversations.
 - [Admin](./Admin.md): All slack admins. Any active user can ping Denny(@dennyzhang) to apply the admin role.
-- [Rules](./guidelines/README.md): General guidelines for everyone.
 
 # Maintainers & Active Users
 - Contact Of [Active Members](Members.md). Find your info missing? Send us a PR.
@@ -48,7 +47,7 @@ Welcome to the community!
 ```
 - Endorse his/her skills in LinkedIn
 - Write a LinkedIn recommendation
-- Or simply Say Hi him/her privately
+- Or simply Say Hi to him/her privately
 ```
 
 2. Keep it relevant to the specific channel.
