@@ -23,10 +23,11 @@
 - Intro: TODO
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/pradipta-dash-a4091127/)
 
-# Stefan Janssono
+# Stefan Jansson
 - Location: Stockholm, Sweden
 - Slack id: @StefanJansson
-- Intro: QA, Automation, CD, DevOps, Giver - PASSION!
+- Intro: Continuous QA Engineer - Empowering teams in Continuous Delivery, Lean and DevOps ways of working
+- GitHub: https://github.com/sjansson
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/stefanjansson1/)
 
 # Kim Kao
