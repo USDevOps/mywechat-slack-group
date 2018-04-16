@@ -17,7 +17,7 @@
 # Name: Stefan Jansson
 - Location: Stockholm, Sweden
 - Slack id: @StefanJansson
-- Intro: QA Consultant - Quality Coach, CD Evangelist, DevOps  
+- Intro: Continuous QA Engineer - Empowering teams in Continuous Delivery, Lean and DevOps ways of working
 - GitHub: https://github.com/sjansson
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/stefanjansson1/) [![Github](https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/github.png)](https://github.com/sjansson)
 
